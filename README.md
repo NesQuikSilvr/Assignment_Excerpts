@@ -3,6 +3,7 @@
 
 Spline Visualizer
 https://github.com/user-attachments/assets/48b66e5c-b4fa-4b00-b90c-55b32372b2a6
+![splines](https://github.com/user-attachments/assets/e95f829c-e812-413c-95c9-4a7821ad8603)
 
 
 Object Render
